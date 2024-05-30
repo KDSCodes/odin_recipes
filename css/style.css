@@ -1,0 +1,15 @@
+* {
+    background-color: black;
+    color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul,
+ol {
+    font-size: 26px;
+    
+}
+
+p {
+    font-size: 30px;
+}
